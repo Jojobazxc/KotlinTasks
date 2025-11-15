@@ -1,4 +1,4 @@
-package com.example
+package com.example.kotlin
 
 object ThirdTaskSolution {
     fun List<Any?>.findInt(): Int? {

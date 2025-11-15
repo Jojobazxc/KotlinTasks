@@ -1,6 +1,6 @@
 package com.example
 
-import com.example.ThirdTaskSolution.findInt
+import com.example.kotlin.ThirdTaskSolution.findInt
 
 
 fun main() {
@@ -8,3 +8,4 @@ fun main() {
 
     println(list.findInt())
 
+}
