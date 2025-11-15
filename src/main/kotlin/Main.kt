@@ -1,7 +1,10 @@
 package com.example
 
+import com.example.ThirdTaskSolution.findInt
+
 
 fun main() {
-    //Решение второй таски: https://github.com/Jojobazxc/Tasks/pull/1
-}
+    val list = listOf<Any?>("string", 42, null, 3.14, 7)
+
+    println(list.findInt())
 
