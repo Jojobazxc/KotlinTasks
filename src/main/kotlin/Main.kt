@@ -8,4 +8,3 @@ fun main() {
 
     println(list.findInt())
 
-}
